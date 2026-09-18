@@ -2,7 +2,7 @@
 
 > GitHub Repository, IoT & Firmware Security Intelligence Platform
 
-RepoIntel-X is a Python-based open-source security intelligence tool designed to discover and analyze publicly available GitHub repositories related to IoT, embedded systems, firmware, UAV/drone technologies, security research, and related technologies.
+*epoIntel-X is a Python-based open-source security intelligence tool designed to discover and analyze publicly available GitHub repositories related to *IoT, embedded systems, firmware, UAV/drone technologies, security research, and related technologies.
 
 ## Features
 
