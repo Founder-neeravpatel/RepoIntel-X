@@ -92,16 +92,59 @@ Clone the repository:
 git clone https://github.com/YOUR-USERNAME/RepoIntel-X.git
 cd RepoIntel-X
 
-<img width="986" height="137" alt="image" src="https://github.com/user-attachments/assets/e2b7c110-9ef6-41ea-8907-4f3aee17346a" />
 
-<img width="921" height="389" alt="image" src="https://github.com/user-attachments/assets/1da97aef-05e1-48d3-a8c6-2192231633a9" />
+#Run :
+ python3 RepoIntel-X.py --limit 20
+
+ or 
+
+  python3 RepoIntel-X.py 
+
+  #in second terminal 
+ python3 RepoIntel-X.py --web
 
 
-<img width="876" height="306" alt="image" src="https://github.com/user-attachments/assets/004d2ca8-7896-42b8-b3a3-a408aa4bf63b" />
+ #output:
 
-
-#Output
-
-<img width="1846" height="980" alt="image" src="https://github.com/user-attachments/assets/e3cd2f1e-8dce-4753-a4fc-8ad9bd0132e7" />
+ [DISCOVER] iot firmware
+[GITHUB] API remaining: 28
+[DISCOVER] embedded security
+[GITHUB] API remaining: 27
+[DISCOVER] esp32 security
+[GITHUB] API remaining: 26
+[DISCOVER] esp8266 security
+[GITHUB] API remaining: 25
+[DISCOVER] mqtt security
+[GITHUB] API remaining: 24
+[DISCOVER] firmware security
+[GITHUB] API remaining: 23
+[DISCOVER] uav firmware
+[GITHUB] API remaining: 22
+[DISCOVER] drone security
+[GITHUB] API remaining: 21
+[DISCOVER] mavlink security
+[GITHUB] API remaining: 20
+[DISCOVER] freertos security
+[GITHUB] API remaining: 19
+[DISCOVER] zephyr security
+[GITHUB] API remaining: 18
+[DISCOVER] openwrt security
+[GITHUB] API remaining: 17
+[DISCOVER] industrial iot security
+[GITHUB] API remaining: 16
+[DISCOVER] unique repositories: 247
+[ANALYZE] BruceDevices/firmware
+[GITHUB] API remaining: 4925
+[ANALYZE] attify/firmware-analysis-toolkit
+[GITHUB] API remaining: 4924
+[ANALYZE] ct-Open-Source/tuya-convert
+[GITHUB] API remaining: 4923
+[ANALYZE] fkie-cad/awesome-embedded-and-iot-security
+[GITHUB] API remaining: 4922
+[ANALYZE] Azure/iot-central-firmware
+[GITHUB] API remaining: 4921
+[ANALYZE] cesanta/mongoose-os
+[GITHUB] API remaining: 4920
 
 <img width="974" height="974" alt="image" src="https://github.com/user-attachments/assets/e6b57556-41d9-45e6-b686-bae64f1d2a02" />
+#
