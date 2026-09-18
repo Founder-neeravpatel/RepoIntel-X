@@ -146,6 +146,5 @@ cd RepoIntel-X
 [ANALYZE] cesanta/mongoose-os
 [GITHUB] API remaining: 4920
 
-<img width="974" height="974" alt="image" src="https://github.com/user-attachments/assets/e6b57556-41d9-45e6-b686-bae64f1d2a02" />
 #
 
