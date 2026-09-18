@@ -1,0 +1,31 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# RepoIntel-X runtime data
+repointel_x.db
+repointel.db
+repointel_report.json
+reports/
+
+# Logs
+*.log
+
+# Private credentials / keys
+*.key
+*.pem
+*.token
+
+# OS files
+.DS_Store
+Thumbs.db
